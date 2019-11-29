@@ -1,1 +1,1 @@
-# tank-shooter-2
+The second phase in the cannonball game.
